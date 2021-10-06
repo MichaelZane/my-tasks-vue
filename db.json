@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Renew Drivers License",
+      "day": "October 12th at 3:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Dentist Appointment",
+      "day": "October 20th at 3:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Halloween Trick or Treat",
+      "day": "October 31st at 6:30pm",
+      "reminder": true
+    }
+  ]
+}
